@@ -2,8 +2,8 @@
     "logLevel": "info",
     "language": "en",
     "cronSchedule": "*/15 * * * *",
-    "slackEnabled": false,
-    "slackChannel": "#worldcup",
+    "slackEnabled": true,
+    "slackChannel": "#mundial-2018",
     "slackBot": "Worldcup",
-    "slackWebhook": "https://hooks.slack.com/services/***"
+    "slackWebhook": "https://hooks.slack.com/services/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"
 }
